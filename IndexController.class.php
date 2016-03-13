@@ -30,5 +30,10 @@ class IndexController extends Controller {
     	dump($form);
     	exit;
     } */
+        
+    /* add to test */
+    public function test{
+        ehce'add to test';
+    }
     
 }
